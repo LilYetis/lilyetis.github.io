@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xdeF04BEFdEcbC5d015c8D795Fc81cfF7C5d2fb15",
+  "CONTRACT_ADDRESS_APPROVE": "0x4F4aE19018DCFacac87A79E2291b03bD08824B91",
+  "CONTRACT_ADDRESS_FROSTMINT": "0xdeF04BEFdEcbC5d015c8D795Fc81cfF7C5d2fb15",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdef04befdecbc5d015c8d795fc81cff7c5d2fb15",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "LilYetis",
+  "SYMBOL": "LILY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lilyetis",
+  "SHOW_BACKGROUND": true
+}
